@@ -1,0 +1,9 @@
+export { StatsBar } from './Sections';
+export { ServicesGrid } from './Sections';
+export { ProcessSection } from './Sections';
+export { AboutSection } from './Sections';
+export { ReferencesSection } from './Sections';
+export { TestimonialsSection } from './Sections';
+export { FaqSection } from './Sections';
+export { ServiceAreasSection } from './Sections';
+export { CtaSection } from './Sections';

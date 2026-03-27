@@ -1,0 +1,8 @@
+{
+  "meta": {"siteName": "Din Maler", "siteDescription": "Din Maler – impresa di pittura a Zurigo e San Gallo."},
+  "nav": {"services": "Servizi", "references": "Referenze", "about": "Chi siamo", "faq": "FAQ", "contact": "Contatto", "quote": "Richiedi preventivo"},
+  "hero": {"badge": "La qualità che si vede!", "title": "Artigianato che si vede.", "titleHighlight": "Qualità che dura.", "subtitle": "Pittura interna, facciate, intonaci e ristrutturazioni."},
+  "faq": {"title": "Domande frequenti", "subtitle": "Avete domande? Abbiamo la risposta.", "questions": [{"q": "Come funziona un preventivo?", "a": "Richiesta per modulo, telefono o WhatsApp. Visita gratuita e preventivo in 24h."}], "moreQuestions": "Altre domande?", "contactCta": "Contattaci"},
+  "footer": {"tagline": "La qualità che si vede! Zurigo & San Gallo.", "copyright": "© {year} Din Maler. Tutti i diritti riservati.", "links": {"imprint": "Note legali", "privacy": "Privacy"}},
+  "cookie": {"title": "Utilizziamo i cookie", "description": "Cookie necessari e opzionali.", "privacyLink": "informativa sulla privacy", "acceptAll": "Accetta tutto", "acceptNecessary": "Solo necessari"}
+}

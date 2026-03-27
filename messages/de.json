@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "siteName": "Din Maler",
+    "siteDescription": "Din Maler – Elvir Beshiri. Malerfirma in Zürich und St. Gallen. Innenanstriche, Fassaden, Gipsarbeiten, Renovation."
+  },
+  "nav": {
+    "services": "Leistungen",
+    "references": "Referenzen",
+    "about": "Über uns",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "quote": "Offerte anfragen"
+  },
+  "hero": {
+    "badge": "Qualität, die mer gseht!",
+    "title": "Handwerk, das man sieht.",
+    "titleHighlight": "Qualität, die bleibt.",
+    "subtitle": "Innenanstriche, Fassaden, Gipsarbeiten und Renovationen – sauber ausgeführt, pünktlich fertig, fair im Preis."
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Haben Sie Fragen? Sehr wahrscheinlich haben wir die Antwort bereits hier.",
+    "questions": [
+      {"q": "Wie läuft eine Offerte bei Ihnen ab?", "a": "Anfrage per Formular, Telefon oder WhatsApp (gerne mit Fotos). Wir vereinbaren einen kostenlosen Besichtigungstermin und senden Ihnen eine klare Offerte innert 24 Stunden."},
+      {"q": "In welchen Regionen sind Sie tätig?", "a": "Hauptsitz: Anemonenstrasse 3, 8047 Zürich. Filiale: 9014 St. Gallen. Wir sind in der ganzen Agglomeration Zürich tätig."},
+      {"q": "Was kostet ein Innenanstrich ungefähr?", "a": "Ein Zimmer ab CHF 500 – abhängig von Fläche, Zustand und Anstrich. Kostenlose Offerte für einen genauen Preis."},
+      {"q": "Wie lange dauert ein typisches Projekt?", "a": "Ein Zimmer: 1–2 Tage. Grössere Projekte: 1–3 Wochen."},
+      {"q": "In welchen Sprachen beraten Sie?", "a": "Deutsch, Französisch, Italienisch und Englisch."}
+    ],
+    "moreQuestions": "Noch Fragen? Schreiben Sie uns.",
+    "contactCta": "Jetzt kontaktieren"
+  },
+  "footer": {
+    "tagline": "Qualität, die mer gseht! Zürich & St. Gallen.",
+    "copyright": "© {year} Din Maler – Elvir Beshiri. Alle Rechte vorbehalten.",
+    "links": {"imprint": "Impressum", "privacy": "Datenschutz"}
+  },
+  "cookie": {
+    "title": "Wir verwenden Cookies",
+    "description": "Notwendige Cookies und optionale Statistik-Cookies.",
+    "privacyLink": "Datenschutzerklärung",
+    "acceptAll": "Alle akzeptieren",
+    "acceptNecessary": "Nur notwendige"
+  }
+}

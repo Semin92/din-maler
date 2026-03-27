@@ -1,0 +1,8 @@
+{
+  "meta": {"siteName": "Din Maler", "siteDescription": "Din Maler – painting company in Zurich and St. Gallen."},
+  "nav": {"services": "Services", "references": "References", "about": "About Us", "faq": "FAQ", "contact": "Contact", "quote": "Request Quote"},
+  "hero": {"badge": "Quality you can see!", "title": "Craftsmanship you can see.", "titleHighlight": "Quality that lasts.", "subtitle": "Interior painting, facades, plastering and renovations."},
+  "faq": {"title": "Frequently Asked Questions", "subtitle": "Have questions? We have the answer.", "questions": [{"q": "How does a quote work?", "a": "Send your request by form, phone or WhatsApp. Free site visit and quote within 24h."}], "moreQuestions": "More questions?", "contactCta": "Contact Us"},
+  "footer": {"tagline": "Quality you can see! Zurich & St. Gallen.", "copyright": "© {year} Din Maler. All rights reserved.", "links": {"imprint": "Imprint", "privacy": "Privacy Policy"}},
+  "cookie": {"title": "We use cookies", "description": "Necessary and optional statistics cookies.", "privacyLink": "privacy policy", "acceptAll": "Accept All", "acceptNecessary": "Necessary Only"}
+}

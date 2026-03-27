@@ -1,0 +1,8 @@
+{
+  "meta": {"siteName": "Din Maler", "siteDescription": "Din Maler – entreprise de peinture à Zurich et St-Gall."},
+  "nav": {"services": "Prestations", "references": "Références", "about": "À propos", "faq": "FAQ", "contact": "Contact", "quote": "Demander un devis"},
+  "hero": {"badge": "La qualité qui se voit!", "title": "Un savoir-faire visible.", "titleHighlight": "Une qualité durable.", "subtitle": "Peinture intérieure, façades, plâtrerie et rénovations."},
+  "faq": {"title": "Questions fréquentes", "subtitle": "Vous avez des questions? Nous avons la réponse.", "questions": [{"q": "Comment fonctionne un devis?", "a": "Envoyez votre demande par formulaire, téléphone ou WhatsApp. Visite gratuite et devis en 24h."}], "moreQuestions": "D'autres questions?", "contactCta": "Nous contacter"},
+  "footer": {"tagline": "La qualité qui se voit! Zurich & St-Gall.", "copyright": "© {year} Din Maler. Tous droits réservés.", "links": {"imprint": "Mentions légales", "privacy": "Confidentialité"}},
+  "cookie": {"title": "Nous utilisons des cookies", "description": "Cookies nécessaires et optionnels.", "privacyLink": "politique de confidentialité", "acceptAll": "Tout accepter", "acceptNecessary": "Seulement nécessaires"}
+}
