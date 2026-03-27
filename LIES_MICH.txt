@@ -1,0 +1,49 @@
+════════════════════════════════════════
+  DIN MALER – KOMPLETT FERTIG
+  Einfach in VS Code öffnen!
+════════════════════════════════════════
+
+SCHRITT 1 – IN VS CODE ÖFFNEN
+  VS Code starten
+  → File → Open Folder → diesen Ordner "din-maler" wählen
+
+SCHRITT 2 – TERMINAL ÖFFNEN
+  In VS Code: Terminal → New Terminal
+  WICHTIG: "Command Prompt" wählen (NICHT PowerShell!)
+
+SCHRITT 3 – PAKETE INSTALLIEREN
+  npm install
+  (ca. 2 Minuten warten)
+
+SCHRITT 4 – WEBSITE STARTEN
+  npm run dev
+
+SCHRITT 5 – BROWSER
+  http://localhost:3000
+  (oder http://localhost:3001 falls 3000 belegt)
+
+════════════════════════════════════════
+  ENTHALTENE SEITEN
+════════════════════════════════════════
+  ✓ Startseite
+  ✓ Über uns (Elvir Beshiri mit Foto)
+  ✓ Leistungen (Innenmalerei & Fassade)
+  ✓ Referenzen + Vorher/Nachher Slider
+  ✓ FAQ
+  ✓ Offerte Formular → info@din-maler.ch
+  ✓ Kontakt
+  ✓ Impressum
+  ✓ Datenschutz (nDSG Schweiz)
+  ✓ Vili Jr. Chat mit Villi-Foto
+  ✓ 4 Sprachen: DE / FR / IT / EN
+  ✓ Instagram @din.maler
+  ✓ TikTok @din_maler_villi
+
+════════════════════════════════════════
+  E-MAIL AKTIVIEREN (einmalig)
+════════════════════════════════════════
+  Formular einmal absenden
+  → E-Mail kommt an info@din-maler.ch
+  → Link darin anklicken
+  → Ab dann kommen alle Anfragen direkt an!
+════════════════════════════════════════
