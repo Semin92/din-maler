@@ -42,4 +42,13 @@
     "acceptAll": "Alle akzeptieren",
     "acceptNecessary": "Nur notwendige"
   }
+  ,
+"process": {
+  "title": "So läuft es bei uns ab",
+  "subtitle": "Einfach, transparent und ohne Überraschungen.",
+  "step1": { "title": "Anfrage senden", "description": "Per Formular, Telefon oder WhatsApp." },
+  "step2": { "title": "Kostenlose Besichtigung", "description": "Elvir Beshiri kommt zu Ihnen." },
+  "step3": { "title": "Klare Offerte", "description": "Transparent, innert 24 Stunden." },
+  "step4": { "title": "Wir legen los", "description": "Pünktlich, sauber, hochwertig." }
+}
 }
